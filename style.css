@@ -1,0 +1,49 @@
+.oybek{
+    text-align: center;
+    border: 3px solid red;
+    background-color: cadetblue;
+    border-radius: 50px;
+    height: 25px;
+    font-size: 20px;
+}
+
+.list1{
+    text-align: center;
+    font-size: 15px;
+    border: 1px solid yellow;
+    background-color: yellow;
+}
+
+.list2{
+    text-align: center ;
+}
+
+.list3{
+    text-align: center;
+    font-size: 15px;
+    border: 1px solid yellow;
+    background-color: yellow;   
+}
+
+label{
+    color: green;
+}
+
+.style{
+    color: white;
+    background-color: cadetblue;
+    width: 150px;
+}
+
+.style2{
+    text-align: center;
+    font-size: 15px;
+    border: 1px solid yellow;
+    background-color: yellow;   
+}
+
+table{
+    text-align: center;
+    color: white;
+    width: 700px;
+}
